@@ -108,7 +108,7 @@ export default function AvatarUploadDialog({ currentAvatar, onClose, onSubmit }:
 								setPreviewFile(null)
 							}
 						}}
-						placeholder='https://example.com/avatar.png'
+						placeholder='https://example.com/avatar.jpg'
 						className='focus:ring-brand w-full rounded-lg border border-gray-300 bg-gray-200 px-4 py-2 focus:ring-2 focus:outline-none'
 					/>
 				</div>
